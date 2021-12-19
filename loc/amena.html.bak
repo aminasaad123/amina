@@ -1,0 +1,18 @@
+<html>
+ <head> 
+<title> مطعم </title>
+ </head> 
+<body bgcolor="#fedd9e"> 
+
+<img src="log.jpg" width="1600" height="500"> 
+<td valign="top"><h1 align="center">مطعم الفخامة </h1> <h3 align="right"> ...يرحب بكم</h3></td> 
+ <tr> <td width="200">
+ <h3>Menu</h3>
+ <ul>
+ <li><a href="الاطباق الرئيسيه.html">الاطباق الرئيسيه</a></li> 
+<li> <a href=" الثانويه الاطباق.html">الاطباق الثانوية </a></li>
+ <li> <a href="الحلويات.html">الحلويات</a></li>
+ <li> <a href=" المشروبات .html" >المشروبات</a> </li> </ul></td> 
+ </tr> 
+</body> 
+</html> 
